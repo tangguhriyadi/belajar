@@ -3,4 +3,6 @@ THIS IS MY 1ST GIT FILE
 EDIT PERTAMA !
 nambah 1
 coba hapus 1
-si A ngerjain
+si B ngerjain
+
+
