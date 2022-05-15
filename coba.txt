@@ -4,3 +4,5 @@ EDIT PERTAMA !
 nambah 1
 coba hapus 1
 si B ngerjain
+
+
